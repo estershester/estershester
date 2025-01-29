@@ -1,5 +1,36 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+👋 Hello, I'm Estershester!
+
+Welcome to my GitHub profile! I'm passionate about coding and have experience in various programming languages and technologies.
+
+---
+
+## 🚀 Projects
+
+Here are some of my notable projects:
+
+- **Multi-Tools**: A comprehensive toolkit developed using Batch scripting.
+- **Matricks Fall**: An HTML-based project showcasing creative web design.
+- **My Export 1**: A TypeScript project created with CodeSandbox.
+- **NetworkSkill**: A Batch script project focusing on network-related tasks.
+- **Pranks**: A collection of fun Batch scripts.
+- **TicTacFun Website**: A TypeScript-based website project.
+
+Feel free to explore these repositories to see my work in action.
+
+---
+
+## 🛠️ Skills
+
+- **Programming Languages**: Batch, HTML, TypeScript
+- **Tools**: CodeSandbox
+- **Version Control**: Git, GitHub
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub**: [github.com/estershester](https://github.com/estershester)
+
+---
+
+⭐ If you find my projects interesting, consider giving them a star! 🌟
